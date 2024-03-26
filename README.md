@@ -3,7 +3,7 @@ Only Pure HTML &amp; CSS Page
 - This is a hands-on practice from **[Elzero](elzero.org)**
 
 #### You Could See My Application Here:  
-- Live Site URL: [Simple-HTML-CSS-Page](https://mostafafinal.github.io/Final-World/)
+- Live Site URL: [Final-World](https://mostafafinal.github.io/Final-World/)
 
 #### The Template Is Built With:
 - HTML5
