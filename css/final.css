@@ -156,6 +156,11 @@
     right: 0;
     top: 200px;
 }
+@media (max-width: 576px) {
+    .dots {
+        display: none;
+    }
+}
 /* End Components */
 
 /* Start Global Rules */
@@ -1029,6 +1034,7 @@ ul {
 }
 .how .container .image img {
     margin-right: 100px;
+    width: 100%;
 }
 @media (max-width: 991px) {
     .how .container .image {
@@ -1164,7 +1170,7 @@ ul {
 .events .container .email {
     margin: 20px auto;
     background-color: #f6f5f5;
-    width: 600px;
+    width: 100%;
     display: flex;
     gap: 20px;
     padding: 30px 40px;
